@@ -1,0 +1,2 @@
+rootProject.name='Crud Firebase'
+include ':app'
